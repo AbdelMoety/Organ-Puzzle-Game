@@ -48,4 +48,5 @@ We welcome contributions to improve the game! Here's how you can contribute:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Project Demo
-[Watch the video](https://github.com/AbdelMoety/Organ-Puzzle-Game/blob/main/media/Organ%20Puzzle.mp4)
+[Watch the video](https://drive.google.com/file/d/1zVp-36kBN_scqLWFJ4i6uIzR3DGxYq0G/view?usp=drive_link)
+
