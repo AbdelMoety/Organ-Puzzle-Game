@@ -48,4 +48,4 @@ We welcome contributions to improve the game! Here's how you can contribute:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Project Demo
-[Watch the video](https://drive.google.com/file/d/1By-BrtJ4cILGdghymO93Q1yprVJr1BpI/view?usp=drive_link)
+[Watch the video](https://github.com/user-attachments/assets/a96bde9b-ea2c-480f-9c7f-06edf5888e80)
